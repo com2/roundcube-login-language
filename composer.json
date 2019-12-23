@@ -1,5 +1,5 @@
 {
-    "name": "hassansin/login_lang",
+    "name": "comunica2/rc_login_lang",
     "type": "roundcube-plugin",
     "description": "A Roundcube Plugin to add a language selector on the login screen.",
     "keywords": ["customize","login","language","roundcube"],
